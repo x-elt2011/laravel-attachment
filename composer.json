@@ -1,5 +1,6 @@
 {
     "name": "xelt2011/laravel-attachment",
+	"description": "라라벨 Eloquent 모델 파일 첨부 패키지",
     "license": "MIT",
     "authors": [
         {
